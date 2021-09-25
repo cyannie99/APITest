@@ -10,7 +10,7 @@
 
 
  **- 测试点分析** 
-
+![输入图片说明](https://images.gitee.com/uploads/images/2021/0925/144818_39b0f724_9560547.png "屏幕截图.png")
 
  **- 测试用例编写** 
 见Excel
